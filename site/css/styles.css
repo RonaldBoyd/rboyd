@@ -1,0 +1,24 @@
+
+body{
+	background-color: pink;
+}
+
+h1{
+	font-size: 3em;
+	color:  red;
+}
+
+p{
+	font-size: 4em;
+	color:#00ff00;
+}
+
+a {
+	font-size: .5em;
+
+}
+
+button {
+	font-size: 3em;
+	color: #ff00ff
+}

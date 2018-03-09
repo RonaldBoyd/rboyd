@@ -1,6 +1,6 @@
 
 body{
-	background-color: pink;
+	background-color: magenta;
 }
 
 h1{
@@ -21,4 +21,7 @@ a {
 button {
 	font-size: 3em;
 	color: #ff00ff
+}
+img {
+	width: 50;
 }
